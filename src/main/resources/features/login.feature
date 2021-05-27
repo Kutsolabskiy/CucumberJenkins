@@ -6,3 +6,4 @@ Feature: Login user
     Then Input login
     Then Input password
     Then Click Sign in_Submit button
+
